@@ -1,5 +1,5 @@
 import { component$ } from "@builder.io/qwik";
 
 export const AccordionRoot = component$(() => {
-  return <div>AccordionRoot</div>;
+  return <div>I am root</div>;
 });
